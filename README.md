@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student at MSOE studying Computer Science
 - 📫 I can be reached through email or by DM through twitter
 
-![](https://komarev.com/ghpvc/?username=Hamza-Zuberi&color=green)
+![](https://komarev.com/ghpvc/?username=Hamza-Zuberi&color=blue)
 
 <!---
 Hamza-Zuberi/Hamza-Zuberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
