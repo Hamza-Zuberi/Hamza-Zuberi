@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hamza-Zuberi
 - 👀 I’m interested in Artificial Intelligence, Video Games, Chess, Soccer and Calligraphy
-- 🌱 I’m currently a student at MSOE studying Computer Science
-- 📫 I can be reached through email or by DM through twitter
+- 🌱 I’m currently a Graduate Student at MSOE studying Machine Learning
 
 ![](https://komarev.com/ghpvc/?username=Hamza-Zuberi&color=blue)
 
